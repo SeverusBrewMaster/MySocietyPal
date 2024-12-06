@@ -59,3 +59,10 @@ Before using *MySocietyPal*, make sure you have the following:
 
 Once you have the above, you can begin exploring and understanding the core functionality of *MySocietyPal*.
 
+---
+
+## **Contributors**
+- **Swayam Gawali**: Backend Development
+- **Ishaan Koli**: Frontend Development
+- **Prathmesh Deokar**: Database Management
+- **Aaron D'souza**: UI/UX Design
