@@ -37,12 +37,16 @@ Managing residential societies can be cumbersome and inefficient. Traditional me
 ---
 
 ## **Screenshots**
+1. **Register Page**  
+   ![Homepage Screenshot](Screenshots/Register_page.png)
 1. **Homepage**  
-   ![Homepage Screenshot](path/to/homepage.png)
+   ![Homepage Screenshot](Screenshots/Home_Page.png)
 2. **Amenities Booking Page**  
-   ![Amenities Booking Screenshot](path/to/amenities.png)
-3. **Notice Board**  
-   ![Notice Board Screenshot](path/to/noticeboard.png)
+   ![Amenities Booking Screenshot](Screenshots/Amenities.png)
+1. **Booking Page**  
+   ![Homepage Screenshot](Screenshots/Gym.png)
+4. **Notice Board**  
+   ![Notice Board Screenshot](Screenshots/Notice.png)
 
 ---
 
