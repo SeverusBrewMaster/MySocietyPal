@@ -38,9 +38,9 @@ Managing residential societies can be cumbersome and inefficient. Traditional me
 
 ## **Screenshots**
 1. **Register Page**  
-   ![Homepage Screenshot](Screenshots/Register_page.png)
+   ![Homepage Screenshot](Screenshots/Register Page.png)
 1. **Homepage**  
-   ![Homepage Screenshot](Screenshots/Home_Page.png)
+   ![Homepage Screenshot](Screenshots/Home Page.png)
 2. **Amenities Booking Page**  
    ![Amenities Booking Screenshot](Screenshots/Amenities.png)
 1. **Booking Page**  
