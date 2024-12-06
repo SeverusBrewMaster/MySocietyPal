@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+
+
+    background: url("back.webp");
+    background-size: cover;
+    color: rgb(236, 236, 236);
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.main{
+    background-color: rgba(83, 235, 235, 0.2);
+    max-width: 768px;
+    width: 70%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 7px;
+}
+
+legend {
+    background-color: rgba(228, 235, 235, 0);
+    font-size: 35px;
+    text-align: center;
+}
+
+.division {
+    
+    font-size: 20px;
+    background-color: rgba(228, 235, 235, 0);
+}
+
+form{
+    background-color: rgba(228, 235, 235, 0);
+}
+
+.problem {
+  
+    font-size: 16px;
+    padding: 10px 10px;
+    width: 75%;
+    background-color: aliceblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0;
+    height: 40px;
+    border-radius: 15px;
+    outline: none;
+    
+
+}
+
+.submit {
+
+
+    font-size: 13px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 13px 20px;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+    background-color:  #abdbe6;
+    cursor: pointer;
+}
+
+.submit:hover
+{
+  background: #7888de;
+}
